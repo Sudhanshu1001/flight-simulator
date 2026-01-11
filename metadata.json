@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Sky Pilot",
+  "description": "A high-fidelity retro-3D flight simulator featuring procedural terrain, advanced aerodynamics, and an AI-powered Mission Control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
